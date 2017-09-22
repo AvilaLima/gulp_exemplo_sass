@@ -1,0 +1,18 @@
+{
+  "name": "gulp_exemplo",
+  "version": "1.0.0",
+  "description": "Exemplo gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandre",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  },
+  "dependencies": {
+    "gulp-cli": "^1.4.0"
+  }
+}
